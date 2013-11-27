@@ -1,4 +1,6 @@
-# Mathias’s dotfiles
+# Codev dotfiles
+
+Forked from Mathias Bynens's dotfiles - see http://mths.be/dotfiles
 
 ## Installation
 
